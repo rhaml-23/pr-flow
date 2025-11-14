@@ -12,7 +12,7 @@
         "uuid": "38d03d3c-449a-483f-bcd7-4d41243a6c5d",
         "type": "software",
         "title": "rhel9",
-        "description": "Red Hat Enterprise Linux 9",
+        "description": "Red Hat Enterprise Linux 9.8",
         "props": [
           {
             "name": "Rule_Id",
