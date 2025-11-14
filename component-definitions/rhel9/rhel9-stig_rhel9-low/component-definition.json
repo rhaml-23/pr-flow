@@ -53,7 +53,7 @@
           {
             "name": "Parameter_Description_1",
             "ns": "https://oscal-compass.github.io/compliance-trestle/schemas/oscal/cd",
-            "value": "Specify the FIPS approved ciphers that are used for data integrity protection by the SSH server.",
+            "value": "Specify the FIPS 140-level approved ciphers that are used for data integrity protection by the SSH server.",
             "remarks": "rule_set_000"
           },
           {

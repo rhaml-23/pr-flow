@@ -23,7 +23,7 @@
           {
             "name": "Rule_Description",
             "ns": "https://oscal-compass.github.io/compliance-trestle/schemas/oscal/cd",
-            "value": "Enable authselect",
+            "value": "Enable authselect and control",
             "remarks": "rule_set_000"
           },
           {

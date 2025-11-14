@@ -179,7 +179,7 @@
           {
             "name": "Parameter_Description_8",
             "ns": "https://oscal-compass.github.io/compliance-trestle/schemas/oscal/cd",
-            "value": "Maximum age of password in days",
+            "value": "Maximum ages of password in days",
             "remarks": "rule_set_000"
           },
           {
@@ -14283,7 +14283,7 @@
           {
             "name": "Check_Description",
             "ns": "https://oscal-compass.github.io/compliance-trestle/schemas/oscal/cd",
-            "value": "Configure SSH Server to Use FIPS 140-2 Validated MACs: opensshserver.config",
+            "value": "Configure SSH Server to Use FIPS 140-2 ans FIPS 140-3 Validated MACs: opensshserver.config",
             "remarks": "rule_set_234"
           },
           {
