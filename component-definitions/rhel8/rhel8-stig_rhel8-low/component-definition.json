@@ -12,7 +12,7 @@
         "uuid": "42933299-5705-41be-ba86-141175fdfc66",
         "type": "software",
         "title": "rhel8",
-        "description": "Red Hat Enterprise Linux 8",
+        "description": "Red Hat Enterprise Linux 8 overall rule set.",
         "props": [
           {
             "name": "Rule_Id",

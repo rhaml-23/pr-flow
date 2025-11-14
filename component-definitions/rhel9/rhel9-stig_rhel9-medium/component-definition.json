@@ -323,7 +323,7 @@
           {
             "name": "Parameter_Description_16",
             "ns": "https://oscal-compass.github.io/compliance-trestle/schemas/oscal/cd",
-            "value": "The setting for admin_space_left_action in /etc/audit/auditd.conf",
+            "value": "The setting for admin_space_left_action in custom audit rule file /etc/audit/auditd.conf",
             "remarks": "rule_set_000"
           },
           {
@@ -24384,7 +24384,7 @@
           {
             "name": "Rule_Description",
             "ns": "https://oscal-compass.github.io/compliance-trestle/schemas/oscal/cd",
-            "value": "Configure SSSD to Expire Offline Credentials",
+            "value": "Configure SSSD to Expire Unused Credentials",
             "remarks": "rule_set_366"
           },
           {
