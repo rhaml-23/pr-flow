@@ -2,7 +2,7 @@
   "component-definition": {
     "uuid": "1b1feb53-c4af-4351-9a25-d99774a01d82",
     "metadata": {
-      "title": "Component definition for rhel9",
+      "title": "Component definition for rhel9.7",
       "last-modified": "2025-09-16T19:34:27.893429+00:00",
       "version": "1.2",
       "oscal-version": "1.1.3"
@@ -12,7 +12,7 @@
         "uuid": "54178d5f-0371-4d04-ad73-5004b709f430",
         "type": "software",
         "title": "rhel9",
-        "description": "Red Hat Enterprise Linux 9",
+        "description": "Red Hat Enterprise Linux 9.7",
         "props": [
           {
             "name": "Rule_Id",
