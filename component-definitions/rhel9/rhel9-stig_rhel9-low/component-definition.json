@@ -539,7 +539,7 @@
           {
             "name": "Parameter_Description_28",
             "ns": "https://oscal-compass.github.io/compliance-trestle/schemas/oscal/cd",
-            "value": "This sets how NetworkManager handles DNS.  none -  NetworkManager will not modify resolv.conf. default - NetworkManager will update /etc/resolv.conf to reflect the nameservers provided by currently active connections.",
+            "value": "This sets how NetworkManager handles DNSSec.  none -  NetworkManager will not modify resolv.conf. default - NetworkManager will update /etc/resolv.conf to reflect the nameservers provided by currently active connections.",
             "remarks": "rule_set_000"
           },
           {
