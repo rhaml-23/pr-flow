@@ -2,7 +2,7 @@
   "component-definition": {
     "uuid": "3cf866f5-a877-4889-9f22-dbc4f7ff4cf9",
     "metadata": {
-      "title": "Component definition for rhel9.7",
+      "title": "Component definition for rhel9.8",
       "last-modified": "2025-09-16T19:32:35.274679+00:00",
       "version": "1.2",
       "oscal-version": "1.1.3"
